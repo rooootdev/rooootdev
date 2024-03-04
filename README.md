@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=green)
 
 A little about me, if you care:
-- 🌐 I mostly use python and HTML with CSS for them crisp UIs (:
+- 🌐 I mostly use python
 - ⚜️ Love to design stuff!
 - 💡 Im kinda lazy so some project updates or releases might take a while
 
