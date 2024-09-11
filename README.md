@@ -1,4 +1,4 @@
-# Sup, Im GenericApple 🍏
+# Sup, Im roooot 🍏
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=green)
 
 A little about me, if you care:
