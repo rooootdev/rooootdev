@@ -1,4 +1,4 @@
-# Sup, Im roooot 🍏
+# sup, Im roooot 🍏
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=green)
 [ https://roooot.dev ]
 
