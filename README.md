@@ -14,7 +14,7 @@ bio with absolutely 0 relevent information ahead!
 ```
 hi im roooot and:
 - i mainly use python
-- i dont like frontent
+- i dont like frontend
 - im tired
 ```
 
