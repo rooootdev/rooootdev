@@ -1,7 +1,7 @@
 # sup, im roooot 💧
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="assets/duck.gif" alt="Your Image" style="border-radius: 50%; margin-right: 20px;">
   <div>
     <p style="margin: 0; font-size: 18px;">that is a goose,</p>
