@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
 
 <div style="display: flex; align-items: center;">
-  <img src="assets/duck.gif" alt="Your Image" width="150" height="150" style="border-radius: 50%; margin-right: 20px;">
+  <img src="assets/duck.gif" alt="Your Image" style="border-radius: 50%; margin-right: 20px;">
   <div>
     <p style="margin: 0; font-size: 18px;">that is a goose,</p>
     <p style="margin: 0; font-size: 16px;">not a duck.</p>
