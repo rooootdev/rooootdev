@@ -1,10 +1,10 @@
 # sup, im roooot 💧
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
 
-<img align="left" src="assets/duck.gif"><br /><br />
+<img align="left" src="assets/duck.gif"><br /><br /><br />
 this is not a duck,<br />
 this is a goose.
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 ```
 ⚠️ WARNING
