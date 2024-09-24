@@ -1,7 +1,7 @@
 # sup, im roooot 💧
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
 
-![whoops](assets/duck.gif) [ https://roooot.dev ]
+![whoops](assets/duck.gif) that is btw a goose, not a duck [ https://roooot.dev ]
 
 A little about me, if you care:
 - 🌐 I mostly use python
