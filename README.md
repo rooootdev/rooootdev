@@ -1,7 +1,14 @@
 # sup, im roooot 💧
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
 
-![whoops](assets/duck.gif) that is btw a goose, not a duck [ https://roooot.dev ]
+<div style="display: flex; align-items: center;">
+  <img src="assets/duck.gif" alt="Your Image" width="150" height="150" style="border-radius: 50%; margin-right: 20px;">
+  <div>
+    <p style="margin: 0; font-size: 18px;">that is a goose,</p>
+    <p style="margin: 0; font-size: 16px;">not a duck.</p>
+    <p style="margin: 0; font-size: 16px;">[ https://roooot.dev ]</p>
+  </div>
+</div>
 
 A little about me, if you care:
 - 🌐 I mostly use python
