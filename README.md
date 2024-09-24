@@ -1,20 +1,26 @@
 # sup, im roooot 💧
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="assets/duck.gif" alt="Your Image" style="border-radius: 50%; margin-right: 20px;">
-  <div>
-    <p style="margin: 0; font-size: 18px;">that is a goose,</p>
-    <p style="margin: 0; font-size: 16px;">not a duck.</p>
-    <p style="margin: 0; font-size: 16px;">[ https://roooot.dev ]</p>
-  </div>
-</div>
+<img align="left" src="assets/duck.gif"><br /><br />
+this is not a duck,<br />
+this is a goose.
+<br /><br /><br />
 
-A little about me, if you care:
-- 🌐 I mostly use python
-- ⚜️ Love to design stuff!
-- 💡 Im kinda lazy so some project updates or releases might take a while
+```
+⚠️ WARNING
+bio with absolutely 0 relevent information ahead!
+```
 
-See ya! *And if you're feeling generous, toss a star my way ;-;*
+```
+hi im roooot and:
+- i mainly use python
+- i dont like frontent
+- im tired
+```
+
+```
+ok, cya (if you're feeling generous, toss a star my way :3)
+```
+<br />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/919268666305024010)](https://discord.com/users/919268666305024010)
