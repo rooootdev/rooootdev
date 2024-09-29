@@ -7,7 +7,7 @@ this is a goose.
 <br /><br /><br /><br />
 
 <a href="https://roooot.dev" target="_blank">
-    <img src="assets/button.png">
+    <img src="assets/btn.png">
 </a>
 
 ```
