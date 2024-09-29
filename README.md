@@ -6,6 +6,10 @@ this is not a duck,<br />
 this is a goose.
 <br /><br /><br /><br />
 
+<a href="https://roooot.dev" target="_blank">
+    <img src="assets/button.png">
+</a>
+
 ```
 ⚠️ WARNING
 bio with absolutely 0 relevent information ahead!
