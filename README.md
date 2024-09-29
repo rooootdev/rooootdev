@@ -11,12 +11,17 @@ this is a goose.
 bio with absolutely 0 relevent information ahead!
 ```
 
+<a href="https://roooot.dev/">
+  
 ```
 hi im roooot and:
 - i mainly use python
 - i dont like frontend
 - im tired
+- you can click anywhere inside this box to open my website!
 ```
+
+</a>
 
 ```
 ok, cya (if you're feeling generous, toss a star my way :3)
