@@ -28,7 +28,7 @@ ok, cya (if you're feeling generous, toss a star my way :3)
 ```
 <br />
 
-<a href="https://discord.com/user/919268666305024010">
+<a href="https://discord.com/users/919268666305024010">
 <img src="assets/IMG_2373.png" width="150px">
 </a>
 
