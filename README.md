@@ -15,8 +15,10 @@ bio with absolutely 0 relevent information ahead!
   
 ```
 hi im roooot and:
-- i mainly use python
-- i dont like frontend
+- i like to use powershell
+- i like to use python
+- i like frontend
+- im bad at frontend
 - im tired
 - you can click anywhere inside this box to open my website!
 ```
