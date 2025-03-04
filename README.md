@@ -20,7 +20,7 @@ hi im roooot and:
 - i like frontend
 - im bad at frontend
 - im tired
-- you can click anywhere inside this box to open my website!
+- you can click anywhere inside this box to open my shitty website!
 ```
 
 </a>
