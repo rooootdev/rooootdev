@@ -29,7 +29,7 @@ hi im roooot and:
 ok, cya (if you're feeling generous, toss a star my way :P)
 ```
 
-<blockquote><kbd><code>roooot.dev                                                               _ □ ×</code>
+<blockquote><kbd><code>roooot.dev                                                       _ □ ×</code>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/919268666305024010)](https://discord.com/users/919268666305024010)
 </kbd></blockquote>
