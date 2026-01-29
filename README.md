@@ -2,8 +2,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
 
 <img align="left" src="/assets/duck.gif"><br /><br />
-this is not a duck,<br />
-this is a goose.
+what do i even put here?<br />
+dunno.
 <br /><br /><br /><br />
 
 ```
