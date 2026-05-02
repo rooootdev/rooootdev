@@ -1,35 +1,14 @@
 # sup, im roooot 💧
-![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
+<blockquote><kbd><code>projects                                                         _ □ ×</code>
 
-<img align="left" src="/assets/duck.gif"><br /><br />
-what do i even put here?<br />
-dunno.
-<br /><br /><br /><br />
-
-```
-⚠️ WARNING
-bio with absolutely 0 relevent information ahead!
-```
-
-<a href="https://roooot.dev/">
-  
-```
-hi im roooot and:
-- i like to use powershell
-- i like to use python
-- i like frontend
-- im bad at frontend
-- im tired
-- you can click anywhere inside this box to open my shitty website!
-```
-
-</a>
-
-```
-ok, cya (if you're feeling generous, toss a star my way :P)
-```
+![lara](https://roooot.dev/gh/badges/project.php?title=lara%20(iOS)&icon=https://github.com/rooootdev/lara/blob/main/lara.png?raw=true&description=An%20iOS%20customization%20tool%20powered%20by%20DarkSword.) <br>
+![JESSI](https://roooot.dev/gh/badges/project.php?title=JESSI%20(iOS)&icon=https://github.com/Baconium/JESSI/blob/main/gay2_electricboogaloo.png?raw=true&description=A%20jailed%20app%20to%20run%20Minecraft%20servers%20on%20iOS.)
+</kbd></blockquote>
 
 <blockquote><kbd><code>roooot.dev                                                       _ □ ×</code>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/919268666305024010)](https://discord.com/users/919268666305024010)
+[![Discord Presence](https://lanyard.cnrad.dev/api/919268666305024010?idleMessage=im%20just%20chilling&theme=dark&hideSpotify=true&hideActivity=true)](https://discord.com/users/919268666305024010) <br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/919268666305024010?idleMessage=im%20just%20chilling&theme=dark&hideProfile=true)](https://discord.com/users/919268666305024010)
 </kbd></blockquote>
+
+![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=red)
