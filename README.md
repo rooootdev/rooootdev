@@ -7,7 +7,7 @@
 
 <blockquote><kbd><code>roooot.dev                                                            </code>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/919268666305024010)](https://discord.com/users/919268666305024010)
+[![Discord Presence](https://lanyard.cnrad.dev/api/919268666305024010?bg=151b23)](https://discord.com/users/919268666305024010)
 </kbd></blockquote>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=red)
